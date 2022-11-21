@@ -9,7 +9,7 @@ tags: [_meta/notes, _meta/self_written]
 
 - Written by: [Hyun Jong Kim](https://sites.google.com/wisc.edu/hyunjongkim?pli=1)
 - Created: 11/19/2022
-- Last updated: 11/20/2022
+- Last updated: 11/21/2022
 
 These are notes for my [[_index_GNTS_fall_2022|fall 2022 GNTS presentation notes]] on Tuesday, 11/22/2022.
 
